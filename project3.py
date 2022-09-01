@@ -1,5 +1,5 @@
-       FUNCTIONS
-       //PROGRAM TO CREATE A FUNCTION
+      #FUNCTIONS
+       #PROGRAM TO CREATE A FUNCTION
  def most_frequent(string):
     j = dict()
     for key  in string:
