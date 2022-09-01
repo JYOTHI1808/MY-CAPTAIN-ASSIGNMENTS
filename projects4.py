@@ -1,7 +1,4 @@
-//SCHOOL ADMINSTRATION PROGRAM
-
-
-
+#SCHOOL ADMINSTRATION PROGRAM
 import csv
 def write_into_csv(info_list):
     with open('student_info.csv', 'a',newline='') as csv_file:
