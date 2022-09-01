@@ -1,6 +1,5 @@
   PROJECT ON LOOPS
-         
-         //PYTHON PROGRAM FOR FIBONACCI NUMBERS
+  #PYTHON PROGRAM FOR FIBONACCI NUMBERS
   def fibonacci(n):
     a=0
     b=1
